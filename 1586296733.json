@@ -1203,6 +1203,20 @@
               "key_code": "japanese_kana"
             }
           ]
+        },
+        {
+          "type": "basic",
+          "from": {
+            "key_code": "japanese_kana",
+            "modifiers": {
+              "mandatory": ["option"]
+            }
+          },
+          "to": [
+            {
+              "key_code": "japanese_kana"
+            }
+          ]
         }
       ]
     }
