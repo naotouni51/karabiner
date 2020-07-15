@@ -114,9 +114,9 @@
       ]
     },
     {
-      "description": "(enthumble) 無変換/英数 + 「A,C,X,V,D,R,Z,Y,S,F,N,Q,/,Delete」で「Command-A,C,X,V,D,R,Z,Y,S,F,N,Q,/,Delete」",
+      "description": "(enthumble) 無変換/英数 + 「A,C,X,V,D,R,Z,Y,S,F,N,Q,/,Delete」で「Command+A,C,X,V,D,R,Z,Y,S,F,N,Q,/,Delete」",
       "extra_descriptions": [
-        "無変換/英数 + 「A,C,X,V,D,R,Z,Y,S,F,N,Q,/,Delete」で「Command-A,C,X,V,D,R,Z,Y,S,F,N,Q,/,Delete」"
+        "無変換/英数 + 「A,C,X,V,D,R,Z,Y,S,F,N,Q,/,Delete」で「Command+A,C,X,V,D,R,Z,Y,S,F,N,Q,/,Delete」"
       ],
       "extra_description_level": 1,
       "manipulators": [
